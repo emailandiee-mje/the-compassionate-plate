@@ -15,4 +15,4 @@ This project explores the environmental impact of food production, specifically 
 * **Resource Use:** While some plant crops (like Rice and Nuts) have high water needs, they generally remain far lower in overall environmental cost compared to Beef and Lamb.
 
 ### View the Dashboard
-![(https://lookerstudio.google.com/s/khMh3jGTtvM)]
+https://lookerstudio.google.com/s/khMh3jGTtvM
